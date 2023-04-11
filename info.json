@@ -3,19 +3,19 @@
 		"image": "assets/img/50projects.png",
 		"title": "Fifty projects in fifty days",
 		"description": "Fifty projects were developed with the help of the course '50 Projects in 50 Days'",
-		"page": "1",
+		"page": "50_projects_in_50days",
 		"link": "https://github.com/ArssG/50_projects_in_50days"
 	}, {
-		"image": "Assets/img/2.PNG",
-		"title": "Progress Steps",
-		"description": "A bar showing the actual page, you can go back and next ",
-		"page": "2",
+		"image": "assets/img/2.png",
+		"title": "Arss_bot",
+		"description": "My bot developed to interact with users during livestreams",
+		"page": "",
 		"link": "https://github.com/ArssG/50_projects_in_50days/tree/main/Projects/Day%202"
 	}, {
-		"image": "Assets/img/3.PNG",
-		"title": "Rotating Navigation",
-		"description": "",
-		"page": "3",
+		"image": "assets/img/3.png",
+		"title": "Mat-Saurio",
+		"description": "My social service project is a game designed to support math learning for elementary school children.",
+		"page": "",
 		"link": "https://github.com/ArssG/50_projects_in_50days/tree/main/Projects/Day%203"
 	}
 ]
