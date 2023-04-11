@@ -266,7 +266,7 @@ span{
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(0,0,0,0.1), var(--main-color));
+    background: linear-gradient(rgba(0,0,0,0.1), var(--secondary-bg-color));
     display: flex;
     justify-content: center;
     align-items: center;
@@ -313,6 +313,17 @@ span{
     justify-content: center;
 }
 
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 10rem;
+    padding: 3rem;
+}
+.btn-up{
+    color: var(--main-color);
+    font-size: 5rem;
+}
 @media (max-width: 1200px) {
     html{
         font-size: 55%;

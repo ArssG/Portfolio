@@ -1,0 +1,21 @@
+[
+	{
+		"image": "assets/img/50projects.png",
+		"title": "Fifty projects in fifty days",
+		"description": "Fifty projects were developed with the help of the course '50 Projects in 50 Days'",
+		"page": "1",
+		"link": "https://github.com/ArssG/50_projects_in_50days"
+	}, {
+		"image": "Assets/img/2.PNG",
+		"title": "Progress Steps",
+		"description": "A bar showing the actual page, you can go back and next ",
+		"page": "2",
+		"link": "https://github.com/ArssG/50_projects_in_50days/tree/main/Projects/Day%202"
+	}, {
+		"image": "Assets/img/3.PNG",
+		"title": "Rotating Navigation",
+		"description": "",
+		"page": "3",
+		"link": "https://github.com/ArssG/50_projects_in_50days/tree/main/Projects/Day%203"
+	}
+]
