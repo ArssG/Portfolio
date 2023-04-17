@@ -1,5 +1,5 @@
 function loadprojects(){
-    fetch('links.json')
+    fetch('info.json')
         .then(function(res){
             return res.json();
         })
@@ -13,7 +13,7 @@ function loadprojects(){
                     <h4>${pages.title}</h4>
                     <p>${pages.description}</p>
                     <div class="preview">
-                        <a href="assets/pages${pages.page}/index.html"><i class='bx bx-window-alt' ></i></a>
+                        <a href="assets/pages/${pages.page}/index.html"><i class='bx bx-window-alt' ></i></a>
                         <a href="${pages.link}"><i class='bx bxl-github' ></i></a>
                     </div>
                 </div>
