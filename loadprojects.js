@@ -37,6 +37,10 @@ function generateButtons(pages) {
         buttonsHtml += `<a href="${pages.link}" target="_blank" ><i class='bx bxl-github' ></i></a>`;
     }
 
+    if (pages.showblogbutton) {
+        buttonsHtml += `<a href="${pages.blog}" target="_blank" ><i class='bx bxs-notepad'></i></a>`;
+    }
+
     return buttonsHtml;
 }
 
