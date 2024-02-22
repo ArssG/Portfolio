@@ -45,24 +45,22 @@
             <h2 class="heading">About <span>Me</span></h2>
             <h3>Developer</h3>
             <p>Hi, it's a pleasure to meet you. I'm Eduardo, a passionate about software development.</p>
-            <p>I enjoy getting my hands dirty with personal projects to gain hands-on experience. Learning and practicing with unfamiliar tech features is my way of understanding how things work. I'm also keen on exploring how these technologies can make day-to-day life easier. </p>
+            <p>I consider myself a developer. I enjoy working on my own projects, learning about and exploring the capabilities of technology, experimenting with new technologies, and developing tools that can help me in my day-to-day life. </p>
             
         </div>
     </section>
     <section class="services" id="services">
-        <h2 class="heading">My <span>knowledge</span></h2>
+        <h2 class="heading">My <span>knwoledgement</span></h2>
         <div class="services-container">
             <div class="services-box">
                 <i class='bx bx-code-alt' ></i>
-                <h3>Development</h3>
-                <p>I acquired a solid foundation in programming through my university education, and I have gained experience with projects that I made for interest and practice.</p>
-		<p>I've created some games using Unity and C#.</p>
-		<p>I've used Java for mobile application development and college projects, such as a veterinary system and data structures.</p>
-		<p>For web development, I've used HTML/CSS and JavaScript to create static websites, most of which were college projects.</p>
+                <h3>Web development</h3>
+                <p>Development of static and dynamic web pages, among the first technologies I learned and reinforced with Docker, currently learning frameworks.</p>
                 <span class="tools">
                     <i class='bx bxl-html5' ></i>
                     <i class='bx bxl-css3' ></i>
                     <i class='bx bxl-javascript' ></i>
+                    <i class='bx bxl-react' ></i>
                     <i class='bx bxl-java' ></i>
                     <i class='bx bxl-docker' ></i>
                 </span>
@@ -70,22 +68,19 @@
             <div class="services-box">
                 <i class='bx bxs-server'></i>
                 <h3>Infrastructure</h3>
-                <p>I've hands-on experience with managing, keeping an eye on, and fixing second-level issues in on-site, mixed, and cloud setups, dealing mainly with servers in platforms like VMware, Azure, and Google Cloud.</p>
-		<p>I've utilized backup tools such as Azure Backups, Commvault, and Veeam for creating backups of virtual machines, recovering files from backups, and restoring virtual machines.</p>
-		<p>I've used monitoring tools and a ticketing system, I get heads up when there's a hiccup in any service, and I make sure to jot it down for a quick fix</p>
-		<p>I've used monitoring tools and a ticketing system, I received alerts in case of any service-related issues, documented the problem, and ensured timely resolution.</p>
-		<p>I've created work instructions for recurring issues and transitional activities.</p>
-               <span class="tools">
-                    <box-icon name='desktop'></box-icon>
-                   
+                <p>De</p>
+                <span class="tools">
+                    <i class='bx bx-desktop'></i>
+                    
                 </span>
             </div>
             <div class="services-box">
                 <i class='bx bx-cloud' ></i>
                 <h3>Cloud</h3>
-                <p>I have hands-on experience in creating and managing virtual machines, including performing system hardening.</p>
+                <p>A cloud developer in process, learning about its capabilities and how to develop solutions.</p>
                 <span class="tools">
                     <i class='bx bxl-google-cloud' ></i>
+                    <i class='bx bxl-aws' ></i>
                     <img src="assets/img/azure.png" alt="Azure">
                 </span>
             </div>

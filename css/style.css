@@ -21,7 +21,7 @@ body{
 }
 section{
     min-height: 100vh;
-    padding: 10rem 9% 2rem;
+    padding: 10rem 4% 2rem;
 }
 *{
     margin: 0;
@@ -192,7 +192,7 @@ span{
 .services-container{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: stretch;
     flex-wrap: wrap;
     gap: 2rem;
 }
@@ -254,7 +254,9 @@ span{
 
 .portfolio-box img{
     width: 100%;
+    height: 17.5rem;
     transition: .5s ease;
+    object-fit: cover;
 }
 .portfolio-box:hover img{
     transform: scale(1.1)
@@ -304,6 +306,7 @@ span{
 .portfolio-layer a i{
     font-size: 2rem;
     color: var(--secondary-bg-color);
+    gap
 }
 
 .portfolio-box .portfolio-layer .preview{
@@ -311,6 +314,7 @@ span{
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    gap: 0 1rem;
 }
 
 .footer{
@@ -397,6 +401,10 @@ span{
     .portfolio h2{
         margin-bottom: 3rem;
     }
+
+}
+
+@media (max-width: 1060px) {
 
     .portfolio-container{
         grid-template-columns: repeat(2, 1fr);
