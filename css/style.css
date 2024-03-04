@@ -319,6 +319,7 @@ span{
 
 .section-slider{
     padding: 0;
+    min-height: 0;
 }
 .slider{
     width: 1300px;
@@ -377,7 +378,7 @@ span{
     list-style: none;
     width: 10px;
     height: 10px;
-    background-color: #fff;
+    background-color: #000;
     margin: 10px;
     border-radius: 20px;
     transition: 1s;
